@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Issue tracker is **ONLY** used for reporting bugs. New features should be discussed on our slack channel.
+=======
+Issue tracker is **ONLY** used for reporting bugs. New features should be discussed on our slack channel. Please use [stackoverflow](https://stackoverflow.com) for supporting issues.
+>>>>>>> parent of 4c1c3a7 (Update bug_report.md)
 
 <!--- Provide a general summary of the issue in the Title above -->
 
